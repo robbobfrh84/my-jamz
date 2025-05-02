@@ -1,0 +1,498 @@
+[
+  {
+    "playlistID": 1,
+    "playlist_name": "90s Grunge",
+    "playlist_author": "Jase Davenport",
+    "playlist_art": "assets/img/90s_grunge.png",
+    "likes": 2,
+    "songs": [
+      {
+        "title": "Hand in My Pocket",
+        "artist": "Alanis Nadine Morissette",
+        "album": "Jagged Little Pill",
+        "year": 1995,
+        "length": "3:41",
+        "image": "https://images.genius.com/bd548f98b74088df2bd13bc76945da70.500x500x1.jpg"
+      },
+      {
+        "title": "Black",
+        "artist": "Pearl Jam",
+        "album": "Ten",
+        "year": 1991,
+        "length": "5:43",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/PearlJam-Ten2.jpg"
+      },
+      {
+        "title": "Heart-Shaped Box",
+        "artist": "Nirvana",
+        "album": "In Utero",
+        "year": 1993,
+        "length": "4:39",
+        "image": ""
+      },
+      {
+        "title": "Doll Parts",
+        "artist": "Hole",
+        "album": "Live Through This",
+        "year": 1994,
+        "length": "3:33",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/Hole_-_Live_Through_This.png"
+      },
+      {
+        "title": "Comedown",
+        "artist": "Bush",
+        "album": "Sixteen Stone",
+        "year": 1994,
+        "length": "5:27",
+        "image": ""
+      },
+      {
+        "title": "Santa Monica",
+        "artist": "Everclear",
+        "album": "Sparkle and Fade",
+        "year": 1995,
+        "length": "3:12",
+        "image": ""
+      },
+      {
+        "title": "Possum Kingdom",
+        "artist": "Toadies",
+        "album": "Rubberneck",
+        "year": 1994,
+        "length": "5:10",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Rubberneck_album_cover.jpg"
+      }
+    ]
+  },
+  {
+    "playlistID": 2,
+    "playlist_name": "Time for Motown",
+    "playlist_author": "Diane Jones",
+    "playlist_art": "assets/img/motown.png",
+    "likes": 5,
+    "songs": [
+      {
+        "title": "My Girl",
+        "artist": "The Temptations",
+        "album": "The Temptations Sing Smokey",
+        "year": 1965,
+        "length": "2:45",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Tempts-sing-smokey.jpg"
+      },
+      {
+        "title": "Ain't No Mountain High Enough",
+        "artist": "Marvin Gaye & Tammi Terrell",
+        "album": "United",
+        "year": 1967,
+        "length": "2:28",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/84/MarvinGayeWhat%27sGoingOnalbumcover.jpg"
+      },
+      {
+        "title": "Dancing in the Street",
+        "artist": "Martha and the Vandellas",
+        "album": "Dance Party",
+        "year": 1964,
+        "length": "2:40",
+        "image": ""
+      },
+      {
+        "title": "I Heard It Through the Grapevine",
+        "artist": "Gladys Knight & the Pips",
+        "album": "Everybody Needs Love",
+        "year": 1967,
+        "length": "2:59",
+        "image": ""
+      },
+      {
+        "title": "Superstition",
+        "artist": "Stevie Wonder",
+        "album": "Talking Book",
+        "year": 1972,
+        "length": "4:26",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Stevie_wonder-superstition_single.jpg"
+      },
+      {
+        "title": "You Can't Hurry Love",
+        "artist": "The Supremes",
+        "album": "The Supremes A' Go-Go",
+        "year": 1966,
+        "length": "2:45",
+        "image": ""
+      },
+      {
+        "title": "Signed, Sealed, Delivered I'm Yours",
+        "artist": "Stevie Wonder",
+        "album": "Signed, Sealed & Delivered",
+        "year": 1970,
+        "length": "2:40",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "playlistID": 3,
+    "playlist_name": "2000s Dance",
+    "playlist_author": "Natas Blue",
+    "playlist_art": "",
+    "likes": 1,
+    "songs": [
+      {
+        "title": "Hung Up",
+        "artist": "Madonna",
+        "album": "Confessions on a Dance Floor",
+        "year": 2005,
+        "length": "5:37",
+        "image": ""
+      },
+      {
+        "title": "One More Time",
+        "artist": "Daft Punk",
+        "album": "Discovery",
+        "year": 2000,
+        "length": "5:20",
+        "image": ""
+      },
+      {
+        "title": "Toxic",
+        "artist": "Britney Spears",
+        "album": "In the Zone",
+        "year": 2003,
+        "length": "3:19",
+        "image": ""
+      },
+      {
+        "title": "Lady (Hear Me Tonight)",
+        "artist": "Modjo",
+        "album": "Modjo",
+        "year": 2000,
+        "length": "3:39",
+        "image": ""
+      },
+      {
+        "title": "Yeah!",
+        "artist": "Usher featuring Lil Jon and Ludacris",
+        "album": "Confessions",
+        "year": 2004,
+        "length": "4:10",
+        "image": ""
+      },
+      {
+        "title": "Can't Get You Out of My Head",
+        "artist": "Kylie Minogue",
+        "album": "Fever",
+        "year": 2001,
+        "length": "3:51",
+        "image": ""
+      },
+      {
+        "title": "Hips Don't Lie",
+        "artist": "Shakira featuring Wyclef Jean",
+        "album": "Oral Fixation, Vol. 2",
+        "year": 2006,
+        "length": "3:38",
+        "image": ""
+      },
+      {
+        "title": "Crazy in Love",
+        "artist": "Beyoncé featuring Jay-Z",
+        "album": "Dangerously in Love",
+        "year": 2003,
+        "length": "3:56",
+        "image": ""
+      },
+      {
+        "title": "SexyBack",
+        "artist": "Justin Timberlake",
+        "album": "FutureSex/LoveSounds",
+        "year": 2006,
+        "length": "4:02",
+        "image": ""
+      },
+      {
+        "title": "I Gotta Feeling",
+        "artist": "The Black Eyed Peas",
+        "album": "The E.N.D.",
+        "year": 2009,
+        "length": "4:49",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "playlistID": 4,
+    "playlist_name": "Road trip Rock",
+    "playlist_author": "Cody Jones",
+    "playlist_art": "assets/img/rock.png",
+    "likes": 0,
+    "songs": [
+      {
+        "title": "Life in the Fast Lane",
+        "artist": "Eagles",
+        "album": "Hotel California",
+        "year": 1976,
+        "length": "4:46",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
+      },
+      {
+        "title": "Go Your Own Way",
+        "artist": "Fleetwood Mac",
+        "album": "Rumours",
+        "year": 1977,
+        "length": "3:38",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG"
+      },
+      {
+        "title": "Born to Be Wild",
+        "artist": "Steppenwolf",
+        "album": "Steppenwolf",
+        "year": 1968,
+        "length": "3:28",
+        "image": ""
+      },
+      {
+        "title": "Highway to Hell",
+        "artist": "AC/DC",
+        "album": "Highway to Hell",
+        "year": 1979,
+        "length": "3:28",
+        "image": ""
+      },
+      {
+        "title": "Radar Love",
+        "artist": "Golden Earring",
+        "album": "Moontan",
+        "year": 1973,
+        "length": "6:26",
+        "image": ""
+      },
+      {
+        "title": "Runnin' Down a Dream",
+        "artist": "Tom Petty",
+        "album": "Full Moon Fever",
+        "year": 1989,
+        "length": "4:23",
+        "image": ""
+      },
+      {
+        "title": "You Shook Me All Night Long",
+        "artist": "AC/DC",
+        "album": "Back in Black",
+        "year": 1980,
+        "length": "3:30",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "playlistID": 5,
+    "playlist_name": "80s sign along",
+    "playlist_author": "Janice James",
+    "playlist_art": "assets/img/80s.png",
+    "likes": 4,
+    "songs": [
+      {
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "album": "Escape",
+        "year": 1981,
+        "length": "4:10",
+        "image": "https://cdn.hmv.com/r/w-640/hmv/files/45/45782597-2dbf-4bbf-8edd-01f46b023391.jpg"
+      },
+      {
+        "title": "Girls Just Want to Have Fun",
+        "artist": "Cyndi Lauper",
+        "album": "She's So Unusual",
+        "year": 1983,
+        "length": "3:58",
+        "image": "https://www.bigw.com.au/medias/sys_master/images/images/h3c/h66/11765964800030.jpg"
+      },
+      {
+        "title": "Wake Me Up Before You Go-Go",
+        "artist": "Wham!",
+        "album": "Make It Big",
+        "year": 1984,
+        "length": "3:51",
+        "image": "https://yt3.ggpht.com/3O0tcNzVALiVRGc7_NsLy7SbKg_gRTxjATqlGKUxnk_Bb4MeoJeLZShtpI6i2hK2_dQWzwOuUv3I%3Ds1200"
+      },
+      {
+        "title": "I Wanna Dance with Somebody",
+        "artist": "Whitney Houston",
+        "album": "Whitney",
+        "year": 1987,
+        "length": "4:52",
+        "image": ""
+      },
+      {
+        "title": "Livin' on a Prayer",
+        "artist": "Bon Jovi",
+        "album": "Slippery When Wet",
+        "year": 1986,
+        "length": "4:09",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "playlistID": 6,
+    "playlist_name": "*Empty",
+    "playlist_author": "Bob Main",
+    "playlist_art": "",
+    "likes": 0,
+    "songs": []
+  },
+  {
+    "playlistID": 7,
+    "playlist_name": "EDM, yes please!",
+    "playlist_author": "Ash DeAth",
+    "playlist_art": "assets/img/edm.png",
+    "likes": 8,
+    "songs": [
+      {
+        "title": "Where You Are",
+        "artist": "John Summit & Hayla",
+        "album": "Where You Are - Single",
+        "year": 2023,
+        "length": "3:45",
+        "image": "https://w0.peakpx.com/wallpaper/389/47/HD-wallpaper-candy-concert-crowd-dubstep-edm-electronic-festival-rave.jpg"
+      },
+      {
+        "title": "Losing Control",
+        "artist": "Odd Mob & OMNOM",
+        "album": "Losing Control - Single",
+        "year": 2023,
+        "length": "4:12",
+        "image": "https://edm.com/.image/t_share/MTYxOTc0NDg0MzEwNDM1MTE4/beyond-wonderland-2018.jpg"
+      },
+      {
+        "title": "Take It Off",
+        "artist": "Fisher & Aatig",
+        "album": "Take It Off - Single",
+        "year": 2023,
+        "length": "3:58",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9266b834258041.56ca49b3a42c5.jpg"
+      },
+      {
+        "title": "Jewel",
+        "artist": "RL Grime & ISOxo",
+        "album": "Jewel - Single",
+        "year": 2023,
+        "length": "4:05",
+        "image": "https://get.wallhere.com/photo/people-music-musician-EDM-stadium-audience-concerts-mixing-consoles-arena-entertainment-music-festival-performance-stage-crowd-concert-musical-theatre-nightclub-rock-concert-performing-arts-music-venue-103699.jpg"
+      },
+      {
+        "title": "Ray of Solar",
+        "artist": "Swedish House Mafia",
+        "album": "Ray of Solar - Single",
+        "year": 2023,
+        "length": "3:50",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "playlistID": 8,
+    "playlist_name": "Summer Tyme Fun",
+    "playlist_author": "Tom Carter",
+    "playlist_art": "assets/img/summer.png",
+    "likes": 3,
+    "songs": [
+      {
+        "title": "Summertime",
+        "artist": "DJ Jazzy Jeff & The Fresh Prince",
+        "album": "Homebase",
+        "year": 1991,
+        "length": "4:30",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.ltuojBmccgfOsn2Lb0IDZAHaHV&w=469&h=469&c=7"
+      },
+      {
+        "title": "Watermelon Sugar",
+        "artist": "Harry Styles",
+        "album": "Fine Line",
+        "year": 2019,
+        "length": "2:54",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.a8F8h-fBOsJVWFhPE0RbzAHaHa&w=474&h=474&c=7"
+      },
+      {
+        "title": "Heat Waves",
+        "artist": "Glass Animals",
+        "album": "Dreamland",
+        "year": 2020,
+        "length": "3:58",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.p71jAPJUgJkznc4R-w0jVQHaHa&w=474&h=474&c=7"
+      },
+      {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "year": 2020,
+        "length": "3:20",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.3qBH_7MpX9tgKXEW3gWbkwHaHa&w=474&h=474&c=7"
+      },
+      {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "album": "Future Nostalgia",
+        "year": 2020,
+        "length": "3:23",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "playlistID": 9,
+    "playlist_name": "Classical Chill",
+    "playlist_author": "Lowell Thomas",
+    "playlist_art": "assets/img/classical.png",
+    "likes": 1,
+    "songs": [
+      {
+        "title": "Clair de Lune",
+        "artist": "Claude Debussy",
+        "album": "Suite bergamasque",
+        "year": 1905,
+        "length": "5:00",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.E4TIG_kbu5TKIEhWCvTazwHaHj&w=474&h=474&c=7"
+      },
+      {
+        "title": "Gymnopédie No.1",
+        "artist": "Erik Satie",
+        "album": "Gymnopédies",
+        "year": 1888,
+        "length": "3:30",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.pekLy3WARk97va4JUDoZWwHaHU&w=468&h=468&c=7"
+      },
+      {
+        "title": "Air on the G String",
+        "artist": "Johann Sebastian Bach",
+        "album": "Orchestral Suite No. 3 in D major, BWV 1068",
+        "year": 1731,
+        "length": "5:25",
+        "image": ""
+      },
+      {
+        "title": "Adagio for Strings",
+        "artist": "Samuel Barber",
+        "album": "Adagio for Strings",
+        "year": 1938,
+        "length": "8:30",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.qGR53uJJu5GbYlk3HalFXQHaHW&w=470&h=470&c=7"
+      },
+      {
+        "title": "Spiegel im Spiegel",
+        "artist": "Arvo Pärt",
+        "album": "Spiegel im Spiegel",
+        "year": 1978,
+        "length": "10:00",
+        "image": ""
+      },
+      {
+        "title": "Nocturne in E-flat major, Op. 9, No. 2",
+        "artist": "Frédéric Chopin",
+        "album": "Nocturnes, Op. 9",
+        "year": 1832,
+        "length": "4:30",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Chopin_-_Nocturne_Op._9_No._2_-_score_sample.png"
+      }
+    ]
+  }
+]

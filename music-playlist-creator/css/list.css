@@ -1,0 +1,51 @@
+.list {
+  background-color: #eee;
+  margin-top: 12px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.list ul {
+  padding: 0px;
+  margin: 0px;
+  height: 330px;
+  overflow-y: auto;
+  border-radius: 10px;
+}
+
+.list li {
+  background-color: #ddd;
+  border-radius: 10px;
+  list-style-type: none;
+  margin-bottom: 5px;
+  display: flex;
+  cursor: pointer;
+}
+
+.list img {
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.list h3 {
+  font-size: 16px;
+  margin: 0px;
+  margin-top: 8px;
+  padding: 5px 5px 5px 0px;
+}
+
+.list p {
+  margin: 0px;
+  padding: 2px 2px 2px 0px;
+  font-size: 14px;
+
+}
+
+.list time {
+  margin-left: auto;
+  align-self: center;
+  margin-right: 20px;
+}
+

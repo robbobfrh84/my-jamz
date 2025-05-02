@@ -1,0 +1,74 @@
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+.modal-content {
+  background-color: #fefefe;
+  border-radius: 10px;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  width: 80%; 
+  box-shadow: 0px 0px 20px rgba(0,0,0,1);
+}
+.close {
+  color: #aaa;
+  float: right;
+  margin-top: -8px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-top {
+  display: flex;
+}
+
+#playlistImage {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+
+}
+
+.modal h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.modal p {
+  margin-top: 10px;
+}
+
+.modal-heading {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.modal button {
+  background-color: lightskyblue;
+  border: solid 1px gray;
+  margin-top: 12px;
+  font-size: 14px;
+  height: 24px;
+  padding: 0px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.modal button:hover {
+  opacity: 0.7;
+}
