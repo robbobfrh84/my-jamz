@@ -1,45 +1,89 @@
-# Project 1 - Music Playlist Explorer
+## Unit Assignment: Music Playlist Explorer
 
-Code:
+Submitted by: **Bob Main**
 
-- Starter Code: https://github.com/codepath/site-unit2-project1-music-playlist-explorer-starter/
-- Grading Guide: https://courses.codepath.org/courses/site/unit/1#!grading
+Estimated time spent: **10** hours spent in total 
+
+Deployed Application (**required**): [Music Playlist Explorer Deployed Site](https://robbobfrh84.github.io/my-jamz/)
 
 
-# To Do
-✅ Milestone 0: Project Setup
-✅ Milestone 1: Adding Structure with HTML
-✅ Milestone 2: Styling with CSS
-✅ Milestone 3: Displaying Shared Playlists
-✅ Milestone 4: Viewing Playlist Details
-✅ Milestone 5: Liking Playlists
-✅ Milestone 6: Shuffling Songs
-✅ Milestone 7: Create a Featured Home Page
 
-ORDERED 
-- ✅ What of .json vs .js? try again with fetch?
-- ✅ Add click heart
-- ✅ Cobble together feature page info. 
+### Application Features
 
-Review 
-- ✅ Find All checkpoints 📍 in each section as a review
-- Review Code and Add notes
-- Review against initial assignemnt list
-- Review against grading rubric
-- Record Video
-- Cleanup this readme with links and how to view code. 
-- MOve remaining readme here to `_toDo ⭐️`
-- SUBMIT!
+#### CORE FEATURES
 
-### BONUS
-- ✅ Fix centering of cards when it breaks down to 3
+- [x] **Display Playlists**
+  - [x] Dynamically render playlists on the homepage using JavaScript.
+    - [x] Playlists should be shown in grid view.
+    - [x] Playlist images should be reasonably sized (at least 6 playlists on your laptop when full screen; large enough that the playlist components detailed in the next feature are legible).
+  - [x] Fetch data from a provided Javascript file and use it to create interactive playlist tiles.
 
-# Notes (Questions, bugs, issues, thoughts)
+- [x] **Playlist Components**
+  - [x] Each tile should display the playlist's:
+    - [x] Cover image
+    - [x] Name
+    - [x] Author
+    - [x] Like count
 
-The music playlist part is confusing.
-- 1. `data.json` won't work locally. You'll have to run a server. 
-  - `data.js` works better
-- 2. There isn't a clear guide to how many playlists, how many songs, etc..
-  - HOWEVER, if this is an AI exercise, it's prefect. 
+- [x] **Playlist Details**
+  - [x] Create a modal pop-up view that displays detailed information about a playlist when a user clicks on a playlist tile.
+  - [x] The modal should show the playlist's:
+    - [x] Cover image
+    - [x] Name
+    - [x] Author
+    - [x] List of songs, including each song's:
+      - [x] Title
+      - [x] Artist
+      - [x] Duration
+  - [x] The modal itself should:
+    - [x] Not occupy the entire screen.
+    - [x] Have a shadow to show that it is a pop-up.
+    - [x] Appear floating on the screen.
+    - [x] The backdrop should appear darker or in a different shade.
 
-  
+- [x] **Like Playlists**
+  - [x] Implement functionality to allow users to like playlists by clicking a heart icon on each playlist tile.
+  - [x] When the heart icon is clicked:
+    - [x] If previously unliked:
+      - [x] The like count on the playlist tile should increase by 1.
+      - [x] There should be visual feedback (such as the heart turning a different color) to show that the playlist has been liked by the user.
+    - [x] If previously liked:
+      - [x] The like count on the playlist tile should decrease by 1.
+      - [x] There should be visual feedback (such as the heart turning a different color) to show that the playlist has been unliked by the user.
+    - [x] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please film yourself liking and unliking:
+      - [x] a playlist with a like count of 0
+      - [x] a playlist with a non-zero like count
+
+- [x] **Shuffle Songs**
+  - [x] Enable users to shuffle the songs within a playlist using a shuffle button in the playlist's detail modal.
+  - [x] When the shuffle button is clicked, the playlist's songs should display in a different order.
+  - [x] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please show yourself shuffling the same playlist more than once. 
+
+### Walkthrough Video
+
+`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. Ensure your walkthrough showcases the presence and/or functionality of all features you implemented above (check them off as you film!). Pay attention to any **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS** checkboxes listed above to ensure graders see the full functionality of your website! (🚫 Remove this paragraph after adding walkthrough video)
+
+`ADD_EMBEDDED_CODE_HERE`
+
+### Reflection
+
+* Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
+  * I felt well prepared. The Shuffle implementation was a bit tricky. 
+
+
+* If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
+  * I would work on refactoring the feature page more, and modify the script.js functions to be shared between them. Same goes for some of the css used. 
+
+* Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+  * The gird layout was the most tricky at first. It kept displaying improperly with smaller window widths as well as breakpoints (4 columns to 3) getting messed up. 
+
+
+
+
+### Open-source libraries used
+
+- I didn't use any open source libraries, Only built-in Javascript functionalities. 
+
+### Shout out
+
+To our tech fellow team! Who helped me get through this with there reflections and comments while working on the project!

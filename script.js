@@ -24,6 +24,7 @@ const add_playlist_cards = function(data) {
   const elm = document.getElementById('playlistCards')
   let html = "";
   const noImg = "assets/img/no_image.png"
+  // * 👀 ☝️: fall-back image
 
   // data = []
   // * 👀 ☝️: The above code will allow you to test when there isn't any playlists
@@ -105,6 +106,7 @@ const add_songs = function(playlist) {
   playlistSongs = document.getElementById('playlistSongs');
   playlistSongs.innerHTML = "";
   const noSongImage = "assets/img/no_song_image.png";
+  // * 👀 ☝️: The above code will allow you to test when there isn't any playlists
 
   playlist.songs.forEach( song => {
     const li = document.createElement('li');
