@@ -82,8 +82,8 @@ https://www.loom.com/share/8e93dc1f878d4e8e8a42848740661a93?sid=de7f6f64-1af6-4f
 
 ### Open-source libraries used
 
-- I didn't use any open source libraries, Only built-in Javascript functionalities. 
+- I didn't use any open source libraries, only built-in Javascript functionalities. 
 
 ### Shout out
 
-To our tech fellow team! Who helped me get through this with there reflections and comments while working on the project!
+To our tech fellow team! Who helped me get through this with their reflections and comments while working on the project!
