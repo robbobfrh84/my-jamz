@@ -61,7 +61,7 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](htt
 
 ### Walkthrough Video
 
-`https://www.loom.com/share/8e93dc1f878d4e8e8a42848740661a93`
+https://www.loom.com/share/8e93dc1f878d4e8e8a42848740661a93?sid=de7f6f64-1af6-4ff4-b2d0-7b4abab731fa
 
 
 
