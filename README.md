@@ -60,8 +60,14 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](htt
   - [x] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** In addition to showcasing the above features, for ease of grading, please show yourself shuffling the same playlist more than once. 
 
 ### Walkthrough Video
+Link to the demo video:
+- https://www.loom.com/share/8e93dc1f878d4e8e8a42848740661a93?sid=de7f6f64-1af6-4ff4-b2d0-7b4abab731fa
 
-https://www.loom.com/share/8e93dc1f878d4e8e8a42848740661a93?sid=de7f6f64-1af6-4ff4-b2d0-7b4abab731fa
+### Fixing Heart Visual Changes for Resubmission
+
+After my first submission, I learned that I'd implemented the Heart like/unlike icon incorrectly. This gif demonstrates the changes I made to fix this. 
+
+![Fixing Heart Visual Changes](./assets/updated_heart.gif)
 
 
 
