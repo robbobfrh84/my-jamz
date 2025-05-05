@@ -30,33 +30,33 @@ const add_playlist_cards = function(data) {
   // * 👀 ☝️: The above code will allow you to test when there isn't any playlists
 
   data.forEach( (playlist, index) => {
-    html +=
-      `<div class="card" onclick="open_playlist_modal(${playlist.playlistID},${index})">
+    html += `
+      <div class="card" onclick="open_playlist_modal(${playlist.playlistID},${index})">
 
-      <img src='${playlist.playlist_art || noImg}' alt='Playlist Image' width='100%'>
+        <img src='${playlist.playlist_art || noImg}' alt='Playlist Image' width='100%'>
 
-      <h3>${playlist.playlist_name}</h3>
+        <h3>${playlist.playlist_name}</h3>
 
-      <div class="cursor-default">
+        <div class="cursor-default">
 
-        <p>${playlist.playlist_author}</p>
+          <p>${playlist.playlist_author}</p>
 
-        <svg id="heart-${playlist.playlistID}" 
-          onclick="event.stopPropagation(); heart_playlist(${playlist.playlistID})"
-          onmouseover="this.querySelector('path').setAttribute('fill', 'red')"
-          onmouseout="this.querySelector('path').setAttribute('fill', 'none')"
-          class="svg-heart" width="20" height="20" viewBox="0 0 24 24" 
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path 
-            d="M12 21s-6-4.35-9-8.6C1.5 9.1 2.42 5.5 5.5 4.5 7.24 3.93 9 5 12 8c3-3 4.76-4.07 6.5-3.5 3.08 1 4 4.6 2.5 7.9C18 16.65 12 21 12 21z" 
-            fill="none" 
-            stroke=${ playlist.likes ? "red" : "black" } 
-            stroke-width="2"
-          />
-        </svg>
+          <svg id="heart-${playlist.playlistID}" 
+            onclick="event.stopPropagation(); heart_playlist(${playlist.playlistID});"
+            onmouseover="this.querySelector('path').setAttribute('fill', 'rgba(255,0,0,0.5)')"
+            onmouseout="this.querySelector('path').setAttribute('fill', '${ playlist.hearted ? "red" : "none" }')"
+            class="svg-heart" width="20" height="20" viewBox="0 0 24 24" 
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path 
+              d="M12 21s-6-4.35-9-8.6C1.5 9.1 2.42 5.5 5.5 4.5 7.24 3.93 9 5 12 8c3-3 4.76-4.07 6.5-3.5 3.08 1 4 4.6 2.5 7.9C18 16.65 12 21 12 21z" 
+              fill=${ playlist.hearted ? "red" : "none" } 
+              stroke=${ playlist.likes ? "red" : "black" } 
+              stroke-width="2"
+            />
+          </svg>
 
-        <span>${ playlist.likes || 0 }</span>
+          <span>${ playlist.likes || 0 }</span>
 
         </div>
 
